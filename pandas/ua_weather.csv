@@ -1,0 +1,170 @@
+,city,country,lat,lon,tz_id,date,date_epoch,maxtemp_c,mintemp_c,avgtemp_c,maxwind_mph,totalprecip_mm,avgvis_km,avghumidity,day_description,code,uv,sunrise,sunset,moonrise,moonset,moon_phase,moon_illumination
+1,Konotop,Ukraine,51.23,33.2,Europe/Kiev,2022-07-12,1657584000,21.7,12.8,19.2,14.5,0.0,9.9,65.0,Partly cloudy,1003,0.0,04:45 AM,09:00 PM,08:27 PM,02:30 AM,Waxing Gibbous,90
+2,Kiev,Ukraine,50.43,30.52,Europe/Kiev,2022-07-06,1657065600,33.7,18.4,28.4,13.6,0.4,9.9,57.0,Patchy rain possible,1063,0.0,04:54 AM,09:11 PM,12:23 PM,12:25 AM,Waxing Crescent,49
+3,Kiev,Ukraine,50.43,30.52,Europe/Kiev,2022-07-07,1657152000,23.4,15.5,20.9,10.5,0.2,10.0,71.0,Overcast,1009,0.0,04:55 AM,09:10 PM,01:39 PM,12:39 AM,First Quarter,56
+4,Kiev,Ukraine,50.43,30.52,Europe/Kiev,2022-07-08,1657238400,28.1,15.7,24.1,8.9,0.5,9.5,62.0,Thundery outbreaks possible,1087,0.0,04:56 AM,09:10 PM,02:58 PM,12:54 AM,First Quarter,63
+5,Kiev,Ukraine,50.43,30.52,Europe/Kiev,2022-07-09,1657324800,24.9,17.7,21.6,12.3,0.1,10.0,60.0,Cloudy,1006,0.0,04:57 AM,09:09 PM,04:21 PM,01:11 AM,First Quarter,69
+6,Kiev,Ukraine,50.43,30.52,Europe/Kiev,2022-07-10,1657411200,24.1,15.3,21.6,8.7,0.0,10.0,59.0,Partly cloudy,1003,0.0,04:58 AM,09:08 PM,05:49 PM,01:33 AM,Waxing Gibbous,76
+7,Kiev,Ukraine,50.43,30.52,Europe/Kiev,2022-07-11,1657497600,22.4,14.9,19.8,12.8,0.3,9.8,63.0,Patchy light rain with thunder,1273,0.0,04:59 AM,09:07 PM,07:15 PM,02:03 AM,Waxing Gibbous,83
+8,Kiev,Ukraine,50.43,30.52,Europe/Kiev,2022-07-12,1657584000,22.8,11.9,19.4,17.4,0.0,10.0,55.0,Partly cloudy,1003,0.0,05:00 AM,09:07 PM,08:32 PM,02:46 AM,Waxing Gibbous,90
+9,Kharkiv,Ukraine,50.0,36.25,Europe/Kiev,2022-07-06,1657065600,33.0,20.9,27.9,10.7,0.0,10.0,47.0,Sunny,1000,0.0,04:33 AM,08:45 PM,12:00 PM,12:02 AM,Waxing Crescent,49
+10,Kharkiv,Ukraine,50.0,36.25,Europe/Zaporozhye,2022-07-07,1657152000,26.5,20.7,24.6,9.6,0.0,10.0,49.0,Partly cloudy,1003,0.0,04:34 AM,08:45 PM,01:14 PM,12:16 AM,First Quarter,56
+11,Kharkiv,Ukraine,50.0,36.25,Europe/Zaporozhye,2022-07-08,1657238400,33.2,18.7,29.1,10.3,0.0,10.0,41.0,Partly cloudy,1003,0.0,04:35 AM,08:44 PM,02:32 PM,12:31 AM,First Quarter,63
+12,Kharkiv,Ukraine,50.0,36.25,Europe/Kiev,2022-07-09,1657324800,32.2,21.0,28.3,10.3,0.0,10.0,38.0,Partly cloudy,1003,0.0,04:36 AM,08:44 PM,03:56 PM,12:49 AM,First Quarter,69
+13,Kharkiv,Ukraine,50.0,36.25,Europe/Kiev,2022-07-10,1657411200,30.7,17.1,26.7,11.2,0.1,9.9,53.0,Thundery outbreaks possible,1087,0.0,04:37 AM,08:43 PM,05:22 PM,01:12 AM,Waxing Gibbous,76
+14,Kharkiv,Ukraine,50.0,36.25,Europe/Zaporozhye,2022-07-11,1657497600,23.1,17.4,21.4,9.4,3.5,9.9,81.0,Light rain shower,1240,0.0,04:38 AM,08:42 PM,06:48 PM,01:42 AM,Waxing Gibbous,83
+15,Kharkiv,Ukraine,50.0,36.25,Europe/Zaporozhye,2022-07-12,1657584000,26.0,13.2,22.1,9.8,0.0,10.0,56.0,Cloudy,1006,0.0,04:39 AM,08:41 PM,08:06 PM,02:25 AM,Waxing Gibbous,90
+16,Odesa,Ukraine,46.47,30.73,Europe/Kiev,2022-07-06,1657065600,30.6,24.2,28.3,10.7,0.0,10.0,50.0,Partly cloudy,1003,0.0,05:12 AM,08:52 PM,12:23 PM,12:21 AM,Waxing Crescent,49
+17,Odesa,Ukraine,46.47,30.73,Europe/Kiev,2022-07-07,1657152000,31.0,23.7,27.1,16.3,0.0,10.0,56.0,Partly cloudy,1003,0.0,05:12 AM,08:51 PM,01:35 PM,12:39 AM,First Quarter,56
+18,Odesa,Ukraine,46.47,30.73,Europe/Kiev,2022-07-08,1657238400,30.6,21.4,27.4,14.8,0.0,10.0,58.0,Sunny,1000,0.0,05:13 AM,08:51 PM,02:49 PM,12:58 AM,First Quarter,63
+19,Odesa,Ukraine,46.47,30.73,Europe/Kiev,2022-07-09,1657324800,32.2,20.1,27.4,21.0,0.0,10.0,59.0,Partly cloudy,1003,0.0,05:14 AM,08:50 PM,04:08 PM,01:20 AM,First Quarter,69
+20,Odesa,Ukraine,46.47,30.73,Europe/Kiev,2022-07-10,1657411200,28.1,20.8,25.8,16.8,0.0,10.0,50.0,Partly cloudy,1003,0.0,05:15 AM,08:50 PM,05:30 PM,01:46 AM,Waxing Gibbous,76
+21,Odesa,Ukraine,46.47,30.73,Europe/Kiev,2022-07-11,1657497600,25.0,21.0,23.5,15.9,0.0,10.0,47.0,Partly cloudy,1003,0.0,05:16 AM,08:49 PM,06:52 PM,02:20 AM,Waxing Gibbous,83
+22,Odesa,Ukraine,46.47,30.73,Europe/Kiev,2022-07-12,1657584000,25.0,19.4,22.9,14.1,0.0,10.0,47.0,Partly cloudy,1003,0.0,05:17 AM,08:49 PM,08:08 PM,03:07 AM,Waxing Gibbous,90
+23,Dnipropetrovsk,Ukraine,48.45,34.98,Europe/Zaporozhye,2022-07-06,1657065600,35.3,21.1,30.7,9.8,0.0,10.0,40.0,Partly cloudy,1003,0.0,04:46 AM,08:43 PM,12:05 PM,12:06 AM,Waxing Crescent,49
+24,Dnipropetrovsk,Ukraine,48.45,34.98,Europe/Zaporozhye,2022-07-07,1657152000,31.5,23.5,29.0,9.8,0.0,10.0,34.0,Cloudy,1006,0.0,04:47 AM,08:43 PM,01:18 PM,12:21 AM,First Quarter,56
+25,Dnipropetrovsk,Ukraine,48.45,34.98,Europe/Zaporozhye,2022-07-08,1657238400,34.3,21.0,31.0,12.5,0.0,10.0,29.0,Sunny,1000,0.0,04:47 AM,08:42 PM,02:35 PM,12:38 AM,First Quarter,63
+26,Dnipropetrovsk,Ukraine,48.45,34.98,Europe/Zaporozhye,2022-07-09,1657324800,34.2,21.8,28.9,21.7,0.1,9.9,36.0,Thundery outbreaks possible,1087,0.0,04:48 AM,08:42 PM,03:56 PM,12:58 AM,First Quarter,69
+27,Dnipropetrovsk,Ukraine,48.45,34.98,Europe/Zaporozhye,2022-07-10,1657411200,31.0,18.1,24.8,12.3,0.7,9.9,65.0,Patchy rain possible,1063,0.0,04:49 AM,08:41 PM,05:21 PM,01:22 AM,Waxing Gibbous,76
+28,Dnipropetrovsk,Ukraine,48.45,34.98,Europe/Zaporozhye,2022-07-11,1657497600,27.9,19.0,24.7,11.2,1.1,10.0,60.0,Patchy rain possible,1063,0.0,04:50 AM,08:40 PM,06:45 PM,01:55 AM,Waxing Gibbous,83
+29,Dnipropetrovsk,Ukraine,48.45,34.98,Europe/Zaporozhye,2022-07-12,1657584000,27.6,17.4,24.7,8.1,0.0,10.0,39.0,Overcast,1009,0.0,04:51 AM,08:40 PM,08:01 PM,02:39 AM,Waxing Gibbous,90
+30,Donetsk,Russia,48.34,39.96,Europe/Moscow,2022-07-06,1657065600,32.1,17.5,27.3,8.9,0.0,10.0,40.0,Sunny,1000,0.0,04:26 AM,08:23 PM,11:45 AM,No moonset,Waxing Crescent,49
+31,Donetsk,Russia,48.34,39.96,Europe/Moscow,2022-07-07,1657152000,32.6,17.7,27.7,12.5,0.0,10.0,36.0,Sunny,1000,0.0,04:27 AM,08:22 PM,12:57 PM,12:01 AM,First Quarter,56
+32,Donetsk,Russia,48.34,39.96,Europe/Moscow,2022-07-08,1657238400,34.5,20.2,30.0,15.4,0.0,10.0,32.0,Sunny,1000,0.0,04:28 AM,08:22 PM,02:13 PM,12:18 AM,First Quarter,63
+33,Donetsk,Russia,48.34,39.96,Europe/Moscow,2022-07-09,1657324800,36.1,22.1,30.7,17.4,0.0,10.0,27.0,Partly cloudy,1003,0.0,04:29 AM,08:21 PM,03:35 PM,12:38 AM,First Quarter,69
+34,Donetsk,Russia,48.34,39.96,Europe/Moscow,2022-07-10,1657411200,36.8,19.7,31.1,18.6,0.1,10.0,33.0,Patchy rain possible,1063,0.0,04:30 AM,08:21 PM,04:59 PM,01:02 AM,Waxing Gibbous,76
+35,Donetsk,Russia,48.34,39.96,Europe/Moscow,2022-07-11,1657497600,26.9,19.9,23.5,10.5,5.6,9.4,68.0,Light rain shower,1240,0.0,04:31 AM,08:20 PM,06:23 PM,01:35 AM,Waxing Gibbous,83
+36,Donetsk,Russia,48.34,39.96,Europe/Moscow,2022-07-12,1657584000,29.7,16.9,25.4,8.1,0.0,10.0,58.0,Sunny,1000,0.0,04:31 AM,08:19 PM,07:40 PM,02:19 AM,Waxing Gibbous,90
+37,Zaporozh’Ye,Украина,47.82,35.18,Europe/Zaporozhye,2022-07-06,1657065600,35.6,20.3,31.2,9.8,0.0,10.0,37.0,Partly cloudy,1003,0.0,04:48 AM,08:40 PM,12:04 PM,12:04 AM,Waxing Crescent,49
+38,Zaporozh’Ye,Украина,47.82,35.18,Europe/Zaporozhye,2022-07-07,1657152000,34.6,20.5,31.1,11.9,0.0,10.0,28.0,Sunny,1000,0.0,04:49 AM,08:39 PM,01:17 PM,12:21 AM,First Quarter,56
+39,Zaporozh’Ye,Украина,47.82,35.18,Europe/Zaporozhye,2022-07-08,1657238400,37.0,20.2,32.4,14.8,0.0,10.0,26.0,Sunny,1000,0.0,04:49 AM,08:39 PM,02:32 PM,12:38 AM,First Quarter,63
+40,Zaporozh’Ye,Украина,47.82,35.18,Europe/Zaporozhye,2022-07-09,1657324800,34.6,19.6,26.7,19.9,2.4,9.6,46.0,Thundery outbreaks possible,1087,0.0,04:50 AM,08:38 PM,03:53 PM,12:59 AM,First Quarter,69
+41,Zaporozh’Ye,Украина,47.82,35.18,Europe/Zaporozhye,2022-07-10,1657411200,32.5,18.1,26.4,12.1,0.8,10.0,57.0,Light rain shower,1240,0.0,04:51 AM,08:37 PM,05:17 PM,01:24 AM,Waxing Gibbous,76
+42,Zaporozh’Ye,Украина,47.82,35.18,Europe/Zaporozhye,2022-07-11,1657497600,28.3,18.5,25.4,11.2,0.7,10.0,58.0,Patchy rain possible,1063,0.0,04:52 AM,08:37 PM,06:40 PM,01:57 AM,Waxing Gibbous,83
+43,Zaporozh’Ye,Украина,47.82,35.18,Europe/Zaporozhye,2022-07-12,1657584000,29.0,16.5,25.5,9.8,0.0,10.0,38.0,Partly cloudy,1003,0.0,04:53 AM,08:36 PM,07:57 PM,02:42 AM,Waxing Gibbous,90
+44,Lviv,Ukraine,49.83,24.0,Europe/Uzhgorod,2022-07-06,1657065600,22.0,13.8,17.9,19.5,7.3,7.0,86.0,Light rain shower,1240,0.0,05:24 AM,09:34 PM,12:51 PM,12:51 AM,Waxing Crescent,49
+45,Lviv,Ukraine,49.83,24.0,Europe/Uzhgorod,2022-07-07,1657152000,23.4,13.2,19.5,5.6,0.2,10.0,74.0,Patchy rain possible,1063,0.0,05:24 AM,09:33 PM,02:06 PM,01:06 AM,First Quarter,56
+46,Lviv,Ukraine,49.83,24.0,Europe/Uzhgorod,2022-07-08,1657238400,19.2,13.3,17.3,12.5,0.3,10.0,77.0,Overcast,1009,0.0,05:25 AM,09:33 PM,03:24 PM,01:21 AM,First Quarter,63
+47,Lviv,Ukraine,49.83,24.0,Europe/Uzhgorod,2022-07-09,1657324800,23.0,12.6,17.8,10.1,0.0,9.0,78.0,Overcast,1009,0.0,05:26 AM,09:32 PM,04:47 PM,01:39 AM,First Quarter,69
+48,Lviv,Ukraine,49.83,24.0,Europe/Uzhgorod,2022-07-10,1657411200,16.5,10.8,14.2,12.3,1.1,9.3,81.0,Light rain shower,1240,0.0,05:27 AM,09:32 PM,06:13 PM,02:02 AM,Waxing Gibbous,76
+49,Lviv,Ukraine,49.83,24.0,Europe/Uzhgorod,2022-07-11,1657497600,16.4,8.5,13.8,15.9,0.4,9.0,82.0,Light drizzle,1153,0.0,05:28 AM,09:31 PM,07:39 PM,02:33 AM,Waxing Gibbous,83
+50,Lviv,Ukraine,49.83,24.0,Europe/Uzhgorod,2022-07-12,1657584000,17.9,9.8,15.2,17.2,1.5,9.8,79.0,Light rain shower,1240,0.0,05:29 AM,09:30 PM,08:56 PM,03:17 AM,Waxing Gibbous,90
+51,Kryvyy Rih,Ukraine,47.92,33.35,Europe/Kiev,2022-07-06,1657065600,34.6,22.9,31.5,10.5,0.0,10.0,38.0,Partly cloudy,1003,0.0,04:55 AM,08:47 PM,12:12 PM,12:12 AM,Waxing Crescent,49
+52,Kryvyy Rih,Ukraine,47.92,33.35,Europe/Kiev,2022-07-07,1657152000,34.0,22.9,30.6,10.1,0.0,10.0,37.0,Partly cloudy,1003,0.0,04:56 AM,08:47 PM,01:25 PM,12:28 AM,First Quarter,56
+53,Kryvyy Rih,Ukraine,47.92,33.35,Europe/Kiev,2022-07-08,1657238400,37.2,18.8,31.9,13.9,0.0,10.0,38.0,Sunny,1000,0.0,04:56 AM,08:46 PM,02:40 PM,12:46 AM,First Quarter,63
+54,Kryvyy Rih,Ukraine,47.92,33.35,Europe/Kiev,2022-07-09,1657324800,33.4,19.8,28.8,13.6,0.1,10.0,48.0,Patchy rain possible,1063,0.0,04:57 AM,08:46 PM,04:01 PM,01:06 AM,First Quarter,69
+55,Kryvyy Rih,Ukraine,47.92,33.35,Europe/Kiev,2022-07-10,1657411200,28.4,17.6,24.9,13.4,0.1,9.6,58.0,Thundery outbreaks possible,1087,0.0,04:58 AM,08:45 PM,05:25 PM,01:31 AM,Waxing Gibbous,76
+56,Kryvyy Rih,Ukraine,47.92,33.35,Europe/Kiev,2022-07-11,1657497600,28.5,17.1,24.6,14.1,0.0,10.0,57.0,Partly cloudy,1003,0.0,04:59 AM,08:45 PM,06:49 PM,02:04 AM,Waxing Gibbous,83
+57,Kryvyy Rih,Ukraine,47.92,33.35,Europe/Kiev,2022-07-12,1657584000,29.7,15.4,25.0,11.4,0.0,10.0,37.0,Cloudy,1006,0.0,05:00 AM,08:44 PM,08:05 PM,02:49 AM,Waxing Gibbous,90
+58,Mariupol,Russia,54.2,45.95,Europe/Moscow,2022-07-06,1657065600,23.5,8.8,20.1,5.8,0.0,10.0,65.0,Overcast,1009,0.0,03:32 AM,08:30 PM,11:18 AM,11:36 PM,Waxing Crescent,49
+59,Mariupol,Russia,54.2,45.95,Europe/Moscow,2022-07-07,1657152000,27.8,11.6,23.1,5.6,0.0,10.0,64.0,Sunny,1000,0.0,03:33 AM,08:29 PM,12:37 PM,11:46 PM,First Quarter,56
+60,Mariupol,Russia,54.2,45.95,Europe/Moscow,2022-07-08,1657238400,30.5,15.6,26.1,3.8,0.0,10.0,63.0,Sunny,1000,0.0,03:34 AM,08:28 PM,02:01 PM,11:58 PM,First Quarter,63
+61,Mariupol,Russia,54.2,45.95,Europe/Moscow,2022-07-09,1657324800,27.3,15.8,24.3,9.4,0.3,9.8,73.0,Thundery outbreaks possible,1087,0.0,03:35 AM,08:27 PM,03:30 PM,No moonset,First Quarter,69
+62,Mariupol,Russia,54.2,45.95,Europe/Moscow,2022-07-10,1657411200,29.3,16.0,24.3,8.9,7.6,9.6,70.0,Light rain shower,1240,0.0,03:36 AM,08:27 PM,05:04 PM,12:14 AM,Waxing Gibbous,76
+63,Mariupol,Russia,54.2,45.95,Europe/Moscow,2022-07-11,1657497600,29.2,16.6,25.6,11.9,0.0,10.0,66.0,Partly cloudy,1003,0.0,03:37 AM,08:26 PM,06:36 PM,12:38 AM,Waxing Gibbous,83
+64,Mariupol,Russia,54.2,45.95,Europe/Moscow,2022-07-12,1657584000,28.9,19.7,25.0,14.1,0.0,9.9,61.0,Thundery outbreaks possible,1087,0.0,03:38 AM,08:25 PM,07:57 PM,01:16 AM,Waxing Gibbous,90
+65,Sevastopol,Ukraine,44.6,33.53,Europe/Zaporozhye,2022-07-06,1657065600,29.7,23.0,27.2,6.7,0.0,10.0,56.0,Sunny,1000,0.0,05:08 AM,08:33 PM,12:12 PM,12:09 AM,Waxing Crescent,49
+66,Sevastopol,Ukraine,44.6,33.53,Europe/Simferopol,2022-07-07,1657152000,31.0,23.3,28.0,6.9,0.0,10.0,55.0,Sunny,1000,0.0,05:08 AM,08:33 PM,01:21 PM,12:28 AM,First Quarter,56
+67,Sevastopol,Ukraine,44.6,33.53,Europe/Simferopol,2022-07-08,1657238400,28.9,23.3,26.3,8.7,0.0,10.0,59.0,Partly cloudy,1003,0.0,05:09 AM,08:32 PM,02:34 PM,12:49 AM,First Quarter,63
+68,Sevastopol,Ukraine,44.6,33.53,Europe/Simferopol,2022-07-09,1657324800,26.8,22.1,25.0,7.4,0.0,10.0,74.0,Sunny,1000,0.0,05:10 AM,08:32 PM,03:51 PM,01:12 AM,First Quarter,69
+69,Sevastopol,Ukraine,44.6,33.53,Europe/Simferopol,2022-07-10,1657411200,24.8,22.1,23.8,15.4,0.2,9.9,70.0,Patchy light rain with thunder,1273,0.0,05:11 AM,08:31 PM,05:11 PM,01:41 AM,Waxing Gibbous,76
+70,Sevastopol,Ukraine,44.6,33.53,Europe/Simferopol,2022-07-11,1657497600,26.1,21.6,24.7,12.5,0.0,10.0,66.0,Sunny,1000,0.0,05:11 AM,08:31 PM,06:32 PM,02:17 AM,Waxing Gibbous,83
+71,Sevastopol,Ukraine,44.6,33.53,Europe/Simferopol,2022-07-12,1657584000,25.3,20.0,23.9,14.3,0.0,10.0,58.0,Sunny,1000,0.0,05:12 AM,08:30 PM,07:47 PM,03:05 AM,Waxing Gibbous,90
+72,Luhansk,Ukraine,48.57,39.33,Europe/Zaporozhye,2022-07-06,1657065600,33.2,17.3,28.4,8.7,0.0,10.0,40.0,Sunny,1000,0.0,04:28 AM,08:26 PM,11:47 AM,No moonset,Waxing Crescent,49
+73,Luhansk,Ukraine,48.57,39.33,Europe/Zaporozhye,2022-07-07,1657152000,33.2,17.0,28.3,11.6,0.0,10.0,36.0,Sunny,1000,0.0,04:29 AM,08:26 PM,01:00 PM,12:04 AM,First Quarter,56
+74,Luhansk,Ukraine,48.57,39.33,Europe/Zaporozhye,2022-07-08,1657238400,35.2,18.9,30.6,13.9,0.0,10.0,31.0,Sunny,1000,0.0,04:29 AM,08:25 PM,02:16 PM,12:20 AM,First Quarter,63
+75,Luhansk,Ukraine,48.57,39.33,Europe/Zaporozhye,2022-07-09,1657324800,34.7,19.8,30.7,16.1,0.0,10.0,29.0,Partly cloudy,1003,0.0,04:30 AM,08:25 PM,03:38 PM,12:40 AM,First Quarter,69
+76,Luhansk,Ukraine,48.57,39.33,Europe/Zaporozhye,2022-07-10,1657411200,35.5,19.4,30.5,17.2,0.0,10.0,38.0,Partly cloudy,1003,0.0,04:31 AM,08:24 PM,05:03 PM,01:04 AM,Waxing Gibbous,76
+77,Luhansk,Ukraine,48.57,39.33,Europe/Zaporozhye,2022-07-11,1657497600,27.5,19.4,23.9,9.2,2.3,9.5,75.0,Patchy rain possible,1063,0.0,04:32 AM,08:23 PM,06:27 PM,01:36 AM,Waxing Gibbous,83
+78,Luhansk,Ukraine,48.57,39.33,Europe/Zaporozhye,2022-07-12,1657584000,30.8,15.2,25.5,7.6,0.0,10.0,56.0,Sunny,1000,0.0,04:33 AM,08:23 PM,07:44 PM,02:20 AM,Waxing Gibbous,90
+79,Vinnytsya,Ukraine,49.23,28.48,Europe/Kiev,2022-07-06,1657065600,36.3,17.3,28.0,19.2,0.0,10.0,54.0,Cloudy,1006,0.0,05:08 AM,09:13 PM,12:32 PM,12:32 AM,Waxing Crescent,49
+80,Vinnytsya,Ukraine,49.23,28.48,Europe/Kiev,2022-07-07,1657152000,19.8,14.0,17.7,10.7,0.3,10.0,80.0,Overcast,1009,0.0,05:09 AM,09:13 PM,01:47 PM,12:47 AM,First Quarter,56
+81,Vinnytsya,Ukraine,49.23,28.48,Europe/Kiev,2022-07-08,1657238400,29.5,13.5,24.6,11.4,0.1,10.0,51.0,Partly cloudy,1003,0.0,05:10 AM,09:12 PM,03:04 PM,01:04 AM,First Quarter,63
+82,Vinnytsya,Ukraine,49.23,28.48,Europe/Kiev,2022-07-09,1657324800,26.8,15.5,21.7,11.2,0.0,10.0,56.0,Overcast,1009,0.0,05:11 AM,09:11 PM,04:26 PM,01:23 AM,First Quarter,69
+83,Vinnytsya,Ukraine,49.23,28.48,Europe/Kiev,2022-07-10,1657411200,21.3,12.7,19.0,9.6,0.8,9.8,68.0,Patchy rain possible,1063,0.0,05:12 AM,09:11 PM,05:52 PM,01:46 AM,Waxing Gibbous,76
+84,Vinnytsya,Ukraine,49.23,28.48,Europe/Kiev,2022-07-11,1657497600,19.9,11.7,16.6,12.5,0.5,10.0,67.0,Light rain shower,1240,0.0,05:13 AM,09:10 PM,07:17 PM,02:17 AM,Waxing Gibbous,83
+85,Vinnytsya,Ukraine,49.23,28.48,Europe/Kiev,2022-07-12,1657584000,21.7,10.0,18.8,15.4,0.0,10.0,57.0,Partly cloudy,1003,0.0,05:14 AM,09:09 PM,08:33 PM,03:02 AM,Waxing Gibbous,90
+86,Poltava,Ukraine,49.58,34.57,Europe/Kiev,2022-07-06,1657065600,32.7,19.1,29.3,12.5,0.0,10.0,48.0,Partly cloudy,1003,0.0,04:42 AM,08:50 PM,12:07 PM,12:08 AM,Waxing Crescent,49
+87,Poltava,Ukraine,49.58,34.57,Europe/Kiev,2022-07-07,1657152000,31.9,21.0,28.2,10.7,0.1,10.0,49.0,Patchy rain possible,1063,0.0,04:43 AM,08:50 PM,01:21 PM,12:23 AM,First Quarter,56
+88,Poltava,Ukraine,49.58,34.57,Europe/Kiev,2022-07-08,1657238400,33.2,20.4,28.4,10.5,0.0,10.0,45.0,Partly cloudy,1003,0.0,04:44 AM,08:49 PM,02:39 PM,12:38 AM,First Quarter,63
+89,Poltava,Ukraine,49.58,34.57,Europe/Kiev,2022-07-09,1657324800,32.6,20.5,26.5,13.2,0.6,9.9,49.0,Patchy rain possible,1063,0.0,04:45 AM,08:48 PM,04:01 PM,12:57 AM,First Quarter,69
+90,Poltava,Ukraine,49.58,34.57,Europe/Kiev,2022-07-10,1657411200,27.9,16.0,23.6,10.7,0.5,9.8,73.0,Thundery outbreaks possible,1087,0.0,04:46 AM,08:48 PM,05:28 PM,01:20 AM,Waxing Gibbous,76
+91,Poltava,Ukraine,49.58,34.57,Europe/Kiev,2022-07-11,1657497600,24.1,16.8,22.0,12.8,0.6,9.0,73.0,Light rain shower,1240,0.0,04:47 AM,08:47 PM,06:53 PM,01:51 AM,Waxing Gibbous,83
+92,Poltava,Ukraine,49.58,34.57,Europe/Kiev,2022-07-12,1657584000,25.4,13.1,22.4,11.4,0.0,10.0,48.0,Partly cloudy,1003,0.0,04:48 AM,08:46 PM,08:10 PM,02:34 AM,Waxing Gibbous,90
+93,Chernihiv,Ukraine,51.5,31.3,Europe/Kiev,2022-07-06,1657065600,30.9,18.5,25.8,9.2,0.3,9.4,65.0,Partly cloudy,1003,0.0,04:46 AM,09:13 PM,12:20 PM,12:22 AM,Waxing Crescent,49
+94,Chernihiv,Ukraine,51.5,31.3,Europe/Kiev,2022-07-07,1657152000,24.3,14.2,20.5,12.1,0.9,9.9,77.0,Overcast,1009,0.0,04:46 AM,09:13 PM,01:37 PM,12:35 AM,First Quarter,56
+95,Chernihiv,Ukraine,51.5,31.3,Europe/Kiev,2022-07-08,1657238400,26.3,14.1,22.6,11.2,2.3,9.9,74.0,Thundery outbreaks possible,1087,0.0,04:47 AM,09:12 PM,02:57 PM,12:49 AM,First Quarter,63
+96,Chernihiv,Ukraine,51.5,31.3,Europe/Kiev,2022-07-09,1657324800,23.8,15.8,21.1,12.3,0.5,8.0,71.0,Light drizzle,1153,0.0,04:48 AM,09:11 PM,04:22 PM,01:05 AM,First Quarter,69
+97,Chernihiv,Ukraine,51.5,31.3,Europe/Kiev,2022-07-10,1657411200,25.2,12.2,21.3,11.2,0.0,10.0,69.0,Partly cloudy,1003,0.0,04:49 AM,09:10 PM,05:51 PM,01:26 AM,Waxing Gibbous,76
+98,Chernihiv,Ukraine,51.5,31.3,Europe/Kiev,2022-07-11,1657497600,22.8,14.4,19.9,12.3,0.6,10.0,74.0,Light rain shower,1240,0.0,04:50 AM,09:10 PM,07:19 PM,01:54 AM,Waxing Gibbous,83
+99,Chernihiv,Ukraine,51.5,31.3,Europe/Kiev,2022-07-12,1657584000,20.3,10.6,18.1,17.4,0.1,9.9,65.0,Patchy rain possible,1063,0.0,04:52 AM,09:09 PM,08:37 PM,02:36 AM,Waxing Gibbous,90
+100,Kherson,Ukraine,46.63,32.6,Europe/Kiev,2022-07-06,1657065600,35.8,22.5,31.6,13.0,0.0,10.0,34.0,Overcast,1009,0.0,05:03 AM,08:45 PM,12:15 PM,12:14 AM,Waxing Crescent,49
+101,Kherson,Ukraine,46.63,32.6,Europe/Kiev,2022-07-07,1657152000,35.4,23.2,31.2,8.5,0.0,10.0,35.0,Partly cloudy,1003,0.0,05:04 AM,08:45 PM,01:27 PM,12:32 AM,First Quarter,56
+102,Kherson,Ukraine,46.63,32.6,Europe/Kiev,2022-07-08,1657238400,35.5,20.2,30.6,7.8,0.1,10.0,40.0,Patchy rain possible,1063,0.0,05:05 AM,08:44 PM,02:41 PM,12:50 AM,First Quarter,63
+103,Kherson,Ukraine,46.63,32.6,Europe/Kiev,2022-07-09,1657324800,33.8,19.1,29.8,13.6,0.0,10.0,45.0,Partly cloudy,1003,0.0,05:06 AM,08:44 PM,04:00 PM,01:12 AM,First Quarter,69
+104,Kherson,Ukraine,46.63,32.6,Europe/Kiev,2022-07-10,1657411200,31.4,18.7,26.9,16.1,1.2,9.8,50.0,Patchy rain possible,1063,0.0,05:07 AM,08:43 PM,05:23 PM,01:38 AM,Waxing Gibbous,76
+105,Kherson,Ukraine,46.63,32.6,Europe/Kiev,2022-07-11,1657497600,28.4,18.6,25.6,13.9,0.0,10.0,48.0,Partly cloudy,1003,0.0,05:07 AM,08:42 PM,06:45 PM,02:12 AM,Waxing Gibbous,83
+106,Kherson,Ukraine,46.63,32.6,Europe/Kiev,2022-07-12,1657584000,31.7,16.8,26.7,14.1,0.0,10.0,37.0,Partly cloudy,1003,0.0,05:08 AM,08:42 PM,08:01 PM,02:59 AM,Waxing Gibbous,90
+107,Cherkasy,Ukraine,49.43,32.07,Europe/Kiev,2022-07-06,1657065600,36.6,21.2,30.8,16.1,0.0,10.0,45.0,Sunny,1000,0.0,04:53 AM,09:00 PM,12:17 PM,12:18 AM,Waxing Crescent,49
+108,Cherkasy,Ukraine,49.43,32.07,Europe/Kiev,2022-07-07,1657152000,27.2,18.1,23.0,13.6,0.4,9.9,75.0,Patchy rain possible,1063,0.0,04:54 AM,08:59 PM,01:32 PM,12:33 AM,First Quarter,56
+109,Cherkasy,Ukraine,49.43,32.07,Europe/Kiev,2022-07-08,1657238400,31.2,18.1,26.1,14.8,1.3,9.8,65.0,Patchy rain possible,1063,0.0,04:55 AM,08:58 PM,02:49 PM,12:49 AM,First Quarter,63
+110,Cherkasy,Ukraine,49.43,32.07,Europe/Kiev,2022-07-09,1657324800,28.8,17.9,24.4,17.9,2.0,9.9,73.0,Patchy rain possible,1063,0.0,04:56 AM,08:58 PM,04:11 PM,01:07 AM,First Quarter,69
+111,Cherkasy,Ukraine,49.43,32.07,Europe/Kiev,2022-07-10,1657411200,26.9,14.4,22.8,13.6,0.0,10.0,62.0,Sunny,1000,0.0,04:57 AM,08:57 PM,05:38 PM,01:31 AM,Waxing Gibbous,76
+112,Cherkasy,Ukraine,49.43,32.07,Europe/Kiev,2022-07-11,1657497600,24.3,16.1,21.2,13.0,0.2,9.9,65.0,Thundery outbreaks possible,1087,0.0,04:57 AM,08:56 PM,07:03 PM,02:02 AM,Waxing Gibbous,83
+113,Cherkasy,Ukraine,49.43,32.07,Europe/Kiev,2022-07-12,1657584000,25.5,12.9,22.3,14.5,0.0,10.0,47.0,Overcast,1009,0.0,04:58 AM,08:56 PM,08:19 PM,02:46 AM,Waxing Gibbous,90
+114,Zhytomyr,Ukraine,50.25,28.67,Europe/Kiev,2022-07-06,1657065600,31.0,15.8,24.5,17.2,0.0,9.9,69.0,Thundery outbreaks possible,1087,0.0,05:03 AM,09:17 PM,12:31 PM,12:32 AM,Waxing Crescent,49
+115,Zhytomyr,Ukraine,50.25,28.67,Europe/Kiev,2022-07-07,1657152000,22.8,13.4,18.8,10.1,0.1,9.0,78.0,Patchy rain possible,1063,0.0,05:04 AM,09:17 PM,01:47 PM,12:46 AM,First Quarter,56
+116,Zhytomyr,Ukraine,50.25,28.67,Europe/Kiev,2022-07-08,1657238400,27.2,12.3,23.3,9.6,0.2,9.9,61.0,Partly cloudy,1003,0.0,05:05 AM,09:16 PM,03:05 PM,01:02 AM,First Quarter,63
+117,Zhytomyr,Ukraine,50.25,28.67,Europe/Kiev,2022-07-09,1657324800,25.8,15.7,22.3,11.0,0.0,10.0,59.0,Partly cloudy,1003,0.0,05:05 AM,09:15 PM,04:28 PM,01:19 AM,First Quarter,69
+118,Zhytomyr,Ukraine,50.25,28.67,Europe/Kiev,2022-07-10,1657411200,22.1,12.1,19.7,8.9,0.1,10.0,67.0,Patchy rain possible,1063,0.0,05:06 AM,09:15 PM,05:56 PM,01:42 AM,Waxing Gibbous,76
+119,Zhytomyr,Ukraine,50.25,28.67,Europe/Kiev,2022-07-11,1657497600,18.7,11.6,15.6,15.2,0.4,9.9,75.0,Light rain shower,1240,0.0,05:07 AM,09:14 PM,07:22 PM,02:11 AM,Waxing Gibbous,83
+120,Zhytomyr,Ukraine,50.25,28.67,Europe/Kiev,2022-07-12,1657584000,20.4,9.0,17.5,18.6,0.2,9.9,69.0,Patchy rain possible,1063,0.0,05:08 AM,09:13 PM,08:39 PM,02:55 AM,Waxing Gibbous,90
+121,Chernivtsi,Ukraine,48.3,25.93,Europe/Uzhgorod,2022-07-06,1657065600,20.5,15.4,18.3,17.0,1.7,8.9,92.0,Light rain,1183,0.0,05:23 AM,09:19 PM,12:43 PM,12:42 AM,Waxing Crescent,49
+122,Chernivtsi,Ukraine,48.3,25.93,Europe/Uzhgorod,2022-07-07,1657152000,24.6,14.0,20.7,8.9,0.0,9.0,71.0,Cloudy,1006,0.0,05:24 AM,09:19 PM,01:56 PM,12:58 AM,First Quarter,56
+123,Chernivtsi,Ukraine,48.3,25.93,Europe/Uzhgorod,2022-07-08,1657238400,27.3,15.0,22.8,18.3,0.0,10.0,59.0,Partly cloudy,1003,0.0,05:25 AM,09:18 PM,03:13 PM,01:15 AM,First Quarter,63
+124,Chernivtsi,Ukraine,48.3,25.93,Europe/Uzhgorod,2022-07-09,1657324800,24.4,13.8,21.4,13.2,0.0,10.0,66.0,Cloudy,1006,0.0,05:26 AM,09:18 PM,04:33 PM,01:35 AM,First Quarter,69
+125,Chernivtsi,Ukraine,48.3,25.93,Europe/Kiev,2022-07-10,1657411200,20.8,12.4,15.5,11.2,1.6,8.3,81.0,Light rain shower,1240,0.0,05:26 AM,09:17 PM,05:58 PM,02:00 AM,Waxing Gibbous,76
+126,Chernivtsi,Ukraine,48.3,25.93,Europe/Uzhgorod,2022-07-11,1657497600,20.2,11.0,16.7,16.8,0.4,10.0,70.0,Light rain shower,1240,0.0,05:27 AM,09:16 PM,07:23 PM,02:32 AM,Waxing Gibbous,83
+127,Chernivtsi,Ukraine,48.3,25.93,Europe/Uzhgorod,2022-07-12,1657584000,22.8,9.7,19.8,10.3,0.0,10.0,56.0,Partly cloudy,1003,0.0,05:28 AM,09:15 PM,08:38 PM,03:18 AM,Waxing Gibbous,90
+128,Sumy,Ukraine,50.92,34.78,Europe/Kiev,2022-07-06,1657065600,33.1,18.3,28.2,11.9,0.0,10.0,57.0,Partly cloudy,1003,0.0,04:35 AM,08:56 PM,12:06 PM,12:08 AM,Waxing Crescent,49
+129,Sumy,Ukraine,50.92,34.78,Europe/Kiev,2022-07-07,1657152000,29.7,18.9,26.3,7.8,0.8,10.0,63.0,Partly cloudy,1003,0.0,04:35 AM,08:55 PM,01:22 PM,12:21 AM,First Quarter,56
+130,Sumy,Ukraine,50.92,34.78,Europe/Kiev,2022-07-08,1657238400,32.6,17.3,26.6,10.5,0.1,10.0,66.0,Partly cloudy,1003,0.0,04:36 AM,08:55 PM,02:41 PM,12:36 AM,First Quarter,63
+131,Sumy,Ukraine,50.92,34.78,Europe/Kiev,2022-07-09,1657324800,31.9,18.8,26.8,12.5,0.2,10.0,54.0,Patchy rain possible,1063,0.0,04:37 AM,08:54 PM,04:05 PM,12:52 AM,First Quarter,69
+132,Sumy,Ukraine,50.92,34.78,Europe/Kiev,2022-07-10,1657411200,28.2,14.8,22.9,8.7,1.7,8.5,79.0,Light rain shower,1240,0.0,04:38 AM,08:53 PM,05:33 PM,01:14 AM,Waxing Gibbous,76
+133,Sumy,Ukraine,50.92,34.78,Europe/Kiev,2022-07-11,1657497600,21.9,15.8,20.2,11.0,2.2,8.9,86.0,Light rain shower,1240,0.0,04:39 AM,08:53 PM,07:00 PM,01:43 AM,Waxing Gibbous,83
+134,Sumy,Ukraine,50.92,34.78,Europe/Kiev,2022-07-12,1657584000,22.2,11.2,19.4,12.5,0.0,10.0,67.0,Partly cloudy,1003,0.0,04:40 AM,08:52 PM,08:18 PM,02:25 AM,Waxing Gibbous,90
+135,Horlivka,Ukraine,48.3,38.05,Europe/Zaporozhye,2022-07-06,1657065600,33.7,18.3,29.1,10.3,0.0,10.0,36.0,Sunny,1000,0.0,04:34 AM,08:30 PM,11:53 AM,No moonset,Waxing Crescent,49
+136,Horlivka,Ukraine,48.3,38.05,Europe/Zaporozhye,2022-07-07,1657152000,33.7,19.0,28.9,11.6,0.0,10.0,30.0,Sunny,1000,0.0,04:35 AM,08:30 PM,01:05 PM,12:09 AM,First Quarter,56
+137,Horlivka,Ukraine,48.3,38.05,Europe/Zaporozhye,2022-07-08,1657238400,34.9,20.5,30.5,13.0,0.0,10.0,28.0,Sunny,1000,0.0,04:36 AM,08:29 PM,02:21 PM,12:26 AM,First Quarter,63
+138,Horlivka,Ukraine,48.3,38.05,Europe/Zaporozhye,2022-07-09,1657324800,33.3,21.0,28.5,13.0,0.1,10.0,35.0,Patchy rain possible,1063,0.0,04:37 AM,08:29 PM,03:43 PM,12:46 AM,First Quarter,69
+139,Horlivka,Ukraine,48.3,38.05,Europe/Zaporozhye,2022-07-10,1657411200,32.8,18.6,29.1,19.9,1.0,9.9,46.0,Patchy light rain with thunder,1273,0.0,04:37 AM,08:28 PM,05:07 PM,01:10 AM,Waxing Gibbous,76
+140,Horlivka,Ukraine,48.3,38.05,Europe/Zaporozhye,2022-07-11,1657497600,27.6,18.5,23.9,9.2,4.2,9.9,71.0,Light rain shower,1240,0.0,04:38 AM,08:27 PM,06:31 PM,01:43 AM,Waxing Gibbous,83
+141,Horlivka,Ukraine,48.3,38.05,Europe/Zaporozhye,2022-07-12,1657584000,28.3,15.2,24.3,5.8,0.0,10.0,55.0,Cloudy,1006,0.0,04:39 AM,08:27 PM,07:48 PM,02:27 AM,Waxing Gibbous,90
+142,Rivne,Ukraine,50.62,26.25,Europe/Kiev,2022-07-06,1657065600,18.8,15.0,17.6,11.2,1.8,8.8,94.0,Light rain shower,1240,0.0,05:11 AM,09:29 PM,12:41 PM,12:42 AM,Waxing Crescent,49
+143,Rivne,Ukraine,50.62,26.25,Europe/Kiev,2022-07-07,1657152000,22.8,12.3,19.9,6.0,0.1,8.0,75.0,Cloudy,1006,0.0,05:12 AM,09:28 PM,01:57 PM,12:56 AM,First Quarter,56
+144,Rivne,Ukraine,50.62,26.25,Europe/Kiev,2022-07-08,1657238400,25.1,14.1,21.3,7.6,0.0,10.0,63.0,Partly cloudy,1003,0.0,05:12 AM,09:28 PM,03:16 PM,01:11 AM,First Quarter,63
+145,Rivne,Ukraine,50.62,26.25,Europe/Kiev,2022-07-09,1657324800,22.1,12.9,19.7,11.4,0.6,10.0,73.0,Light rain shower,1240,0.0,05:13 AM,09:27 PM,04:40 PM,01:28 AM,First Quarter,69
+146,Rivne,Ukraine,50.62,26.25,Europe/Kiev,2022-07-10,1657411200,19.6,13.8,17.2,12.1,1.2,9.9,71.0,Light rain shower,1240,0.0,05:14 AM,09:26 PM,06:08 PM,01:50 AM,Waxing Gibbous,76
+147,Rivne,Ukraine,50.62,26.25,Europe/Kiev,2022-07-11,1657497600,17.0,11.3,15.1,14.1,4.8,9.6,84.0,Light rain shower,1240,0.0,05:15 AM,09:26 PM,07:35 PM,02:19 AM,Waxing Gibbous,83
+148,Rivne,Ukraine,50.62,26.25,Europe/Kiev,2022-07-12,1657584000,17.3,10.0,14.3,18.3,0.7,10.0,84.0,Light rain shower,1240,0.0,05:16 AM,09:25 PM,08:52 PM,03:03 AM,Waxing Gibbous,90
+149,Kremenchuk,Ukraine,49.07,33.42,Europe/Kiev,2022-07-06,1657065600,34.6,21.7,30.9,12.3,0.0,10.0,42.0,Partly cloudy,1003,0.0,04:49 AM,08:52 PM,12:12 PM,12:12 AM,Waxing Crescent,49
+150,Kremenchuk,Ukraine,49.07,33.42,Europe/Kiev,2022-07-07,1657152000,30.3,21.1,25.1,7.4,0.7,9.8,61.0,Patchy rain possible,1063,0.0,04:50 AM,08:52 PM,01:26 PM,12:27 AM,First Quarter,56
+151,Kremenchuk,Ukraine,49.07,33.42,Europe/Kiev,2022-07-08,1657238400,35.1,18.7,29.8,11.6,0.0,10.0,50.0,Sunny,1000,0.0,04:51 AM,08:51 PM,02:42 PM,12:44 AM,First Quarter,63
+152,Kremenchuk,Ukraine,49.07,33.42,Europe/Kiev,2022-07-09,1657324800,34.0,18.6,28.6,16.1,0.0,9.9,55.0,Thundery outbreaks possible,1087,0.0,04:52 AM,08:51 PM,04:04 PM,01:03 AM,First Quarter,69
+153,Kremenchuk,Ukraine,49.07,33.42,Europe/Kiev,2022-07-10,1657411200,26.8,15.6,23.0,12.3,0.8,9.5,71.0,Thundery outbreaks possible,1087,0.0,04:53 AM,08:50 PM,05:30 PM,01:27 AM,Waxing Gibbous,76
+154,Kremenchuk,Ukraine,49.07,33.42,Europe/Kiev,2022-07-11,1657497600,26.2,16.6,23.0,13.9,0.1,10.0,66.0,Partly cloudy,1003,0.0,04:54 AM,08:49 PM,06:55 PM,01:58 AM,Waxing Gibbous,83
+155,Kremenchuk,Ukraine,49.07,33.42,Europe/Kiev,2022-07-12,1657584000,26.6,14.9,23.0,9.4,0.0,10.0,44.0,Cloudy,1006,0.0,04:55 AM,08:49 PM,08:12 PM,02:42 AM,Waxing Gibbous,90
+156,Ternopil,Ukraine,49.55,25.58,Europe/Kiev,2022-07-06,1657065600,20.0,14.1,18.2,11.4,3.0,7.9,92.0,Light rain shower,1240,0.0,05:19 AM,09:26 PM,12:44 PM,12:44 AM,Waxing Crescent,49
+157,Ternopil,Ukraine,49.55,25.58,Europe/Kiev,2022-07-07,1657152000,22.5,11.8,19.7,7.6,2.0,7.8,77.0,Patchy rain possible,1063,0.0,05:19 AM,09:26 PM,01:59 PM,12:59 AM,First Quarter,56
+158,Ternopil,Ukraine,49.55,25.58,Europe/Kiev,2022-07-08,1657238400,24.1,14.5,20.0,13.6,0.3,10.0,66.0,Light rain shower,1240,0.0,05:20 AM,09:25 PM,03:17 PM,01:15 AM,First Quarter,63
+159,Ternopil,Ukraine,49.55,25.58,Europe/Kiev,2022-07-09,1657324800,23.1,13.3,19.9,15.7,0.0,10.0,67.0,Partly cloudy,1003,0.0,05:21 AM,09:25 PM,04:39 PM,01:34 AM,First Quarter,69
+160,Ternopil,Ukraine,49.55,25.58,Europe/Kiev,2022-07-10,1657411200,21.1,11.1,17.5,14.1,0.5,10.0,68.0,Light rain shower,1240,0.0,05:22 AM,09:24 PM,06:05 PM,01:57 AM,Waxing Gibbous,76
+161,Ternopil,Ukraine,49.55,25.58,Europe/Kiev,2022-07-11,1657497600,16.9,9.4,13.9,17.2,0.5,10.0,80.0,Light rain shower,1240,0.0,05:23 AM,09:23 PM,07:31 PM,02:28 AM,Waxing Gibbous,83
+162,Ternopil,Ukraine,49.55,25.58,Europe/Kiev,2022-07-12,1657584000,18.9,8.6,16.1,17.9,0.4,9.9,73.0,Light rain shower,1240,0.0,05:24 AM,09:22 PM,08:47 PM,03:12 AM,Waxing Gibbous,90
+163,Bila Tserkva,Ukraine,49.78,30.12,Europe/Kiev,2022-07-06,1657065600,34.9,17.9,29.4,18.3,0.0,10.0,54.0,Partly cloudy,1003,0.0,04:59 AM,09:09 PM,12:25 PM,12:26 AM,Waxing Crescent,49
+164,Bila Tserkva,Ukraine,49.78,30.12,Europe/Kiev,2022-07-07,1657152000,24.8,14.5,21.3,11.2,0.9,10.0,76.0,Overcast,1009,0.0,05:00 AM,09:09 PM,01:40 PM,12:41 AM,First Quarter,56
+165,Bila Tserkva,Ukraine,49.78,30.12,Europe/Kiev,2022-07-08,1657238400,28.4,13.1,24.1,12.1,3.1,9.3,65.0,Thundery outbreaks possible,1087,0.0,05:01 AM,09:08 PM,02:58 PM,12:56 AM,First Quarter,63
+166,Bila Tserkva,Ukraine,49.78,30.12,Europe/Kiev,2022-07-09,1657324800,25.7,15.6,22.8,15.4,0.4,9.4,62.0,Partly cloudy,1003,0.0,05:02 AM,09:07 PM,04:21 PM,01:15 AM,First Quarter,69
+167,Bila Tserkva,Ukraine,49.78,30.12,Europe/Kiev,2022-07-10,1657411200,25.2,13.4,21.2,9.8,0.0,10.0,64.0,Cloudy,1006,0.0,05:03 AM,09:07 PM,05:47 PM,01:37 AM,Waxing Gibbous,76
+168,Bila Tserkva,Ukraine,49.78,30.12,Europe/Kiev,2022-07-11,1657497600,20.9,13.5,18.9,15.2,0.5,10.0,63.0,Light rain shower,1240,0.0,05:04 AM,09:06 PM,07:13 PM,02:08 AM,Waxing Gibbous,83
+169,Bila Tserkva,Ukraine,49.78,30.12,Europe/Kiev,2022-07-12,1657584000,22.7,9.3,19.9,16.8,0.0,9.9,55.0,Thundery outbreaks possible,1087,0.0,05:05 AM,09:05 PM,08:30 PM,02:52 AM,Waxing Gibbous,90
